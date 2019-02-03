@@ -1,3 +1,3 @@
 function promptGreet() {
-    alert("Hello AMP")
+    alert("Hello Employers")
 }
